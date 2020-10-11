@@ -1,0 +1,54 @@
+      <!DOCTYPE html>
+      <html>
+      <head>
+      <title> Penggunaan Tag Tabel</title>
+      </head>
+      <body>
+      <table border = "3" style = background-color:aqua>
+      <tr>
+      <td style = background-color:blue colspan = "3"><center><b><font color = white size = 30 >Daftar Mahasiswa</font></b></center>  </td>
+  </tr>
+  <tr>
+  <td style = background-color:blue colspan = "3"><center><b><font color = white size = 30 > Universitas IBBI </font></b></center></td>
+  </tr>
+  <tr>
+  <td>Nim</td>
+  <td>1715121593</td>
+  <td rowspan =25><center><img src = "foto.jpg" width = 200 high = 300/></center></td>
+  </tr>
+  <tr>
+<td>Nama</td>
+<td> Anggi Pratama Tarigan </td>
+  </tr>
+  <tr>
+<td>Jurusan</td>
+<td>Teknik Informatika </td>
+  </tr>
+  <tr>
+<td>Kelas</td>
+<td>TI P1</td>
+  </tr>
+  <tr>
+<td>Tangga Lahir </td>
+<td> 03 Februari 1999 </td>
+  </tr>
+  <tr>
+<td>Jenis Kelamin</td>
+<td>Laki-Laki</td>
+  </tr>
+  <tr>
+<td>Agama</td>
+<td>Kristen Protestan</td>
+  </tr>
+  <tr>
+<td>Golongan Darah</td>
+<td>O</td>
+  </tr>
+  <tr>
+<td>Alamat</td>
+<td>Jl.parang 1 gang kuala sari no 30, Medan</td>
+  </tr>
+
+  </table>
+  </body>
+  </html>
